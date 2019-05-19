@@ -63,5 +63,5 @@
         "webpack-manifest-plugin": "^2.0.4",
         "webpack-merge": "^4.2.1"
     },
-    "homepage": "https://apexof.github.io"
+    "homepage": "https://apexof.github.io/"
 }
