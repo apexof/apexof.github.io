@@ -1,8 +1,8 @@
 {
-  "about.css": "/0.style.ec78434cd9196fc1cd0c.css",
-  "about.js": "/about.ec78434cd9196fc1cd0c.js",
-  "runtime~about.js": "/runtime~about.ec78434cd9196fc1cd0c.js",
-  "vendors~about.js": "/vendors~about.ec78434cd9196fc1cd0c.js",
+  "bundle.css": "/0.style.5676349d8f6699409c2e.css",
+  "bundle.js": "/bundle.5676349d8f6699409c2e.js",
+  "runtime~bundle.js": "/runtime~bundle.5676349d8f6699409c2e.js",
+  "vendors~bundle.js": "/vendors~bundle.5676349d8f6699409c2e.js",
   "img/App.scss": "/img/asfalt-light.png",
   "img/folow-max.jpg": "/img/folow-max.jpg",
   "img/grep-max.jpg": "/img/grep-max.jpg",
