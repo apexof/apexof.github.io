@@ -3,13 +3,10 @@
   "about.js": "/about.ec78434cd9196fc1cd0c.js",
   "runtime~about.js": "/runtime~about.ec78434cd9196fc1cd0c.js",
   "vendors~about.js": "/vendors~about.ec78434cd9196fc1cd0c.js",
-  "about.ec78434cd9196fc1cd0c.js.gz": "/about.ec78434cd9196fc1cd0c.js.gz",
   "img/App.scss": "/img/asfalt-light.png",
   "img/folow-max.jpg": "/img/folow-max.jpg",
   "img/grep-max.jpg": "/img/grep-max.jpg",
   "img/motiv-max.jpg": "/img/motiv-max.jpg",
   "img/pobo-max.jpg": "/img/pobo-max.jpg",
-  "index.html": "/index.html",
-  "runtime~about.ec78434cd9196fc1cd0c.js.gz": "/runtime~about.ec78434cd9196fc1cd0c.js.gz",
-  "vendors~about.ec78434cd9196fc1cd0c.js.gz": "/vendors~about.ec78434cd9196fc1cd0c.js.gz"
+  "index.html": "/index.html"
 }
