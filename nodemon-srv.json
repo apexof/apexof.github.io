@@ -1,7 +1,0 @@
-{
-    "watch": [
-        "./src/backend/",
-        "./src/common/",
-        "nodemon.json"
-    ]
-}
