@@ -2,7 +2,7 @@ const { UglifyJsPlugin, CompressionPlugin, ChangeExtensionPlugin, HashedModuleId
 
 module.exports = {
     mode: "production",
-    watch: true,
+    watch: false,
     devtool: false,
     optimization: {
         runtimeChunk: true,

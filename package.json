@@ -12,13 +12,12 @@
         "wds": "cross-env NODE_ENV=development nodemon --exec webpack-dev-server",
         "prod": "cross-env NODE_ENV=production nodemon --exec webpack",
         "build": "cross-env NODE_ENV=production webpack",
-        "deploy": "gh-pages-deploy"
+        "deploy": "gh-pages -d dist"
     },
     "dependencies": {
         "axios": "^0.18.0",
         "express": "^4.16.4",
         "file-loader": "^3.0.1",
-        "gh-pages": "^2.0.1",
         "morgan": "^1.9.1",
         "prop-types": "^15.7.2",
         "react": "^16.8.6",
