@@ -45,6 +45,7 @@ self.addEventListener("install", (event) => {
                                 assets["img/pobo-max.jpg"],
                                 assets["index.html"]
                             ];
+                            console.log("urlsToCache", urlsToCache);
                             cache.addAll(urlsToCache);
                             console.log("cached");
                         });
