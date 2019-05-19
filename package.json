@@ -12,6 +12,7 @@
         "wds": "cross-env NODE_ENV=development nodemon --exec webpack-dev-server",
         "prod": "cross-env NODE_ENV=production nodemon --exec webpack",
         "build": "cross-env NODE_ENV=production webpack",
+        "predeploy": "npm run build",
         "deploy": "gh-pages -d dist"
     },
     "dependencies": {
@@ -63,5 +64,5 @@
         "webpack-manifest-plugin": "^2.0.4",
         "webpack-merge": "^4.2.1"
     },
-    "homepage": "https://apexof.github.io/"
+    "homepage": "https://apexof.github.io"
 }
