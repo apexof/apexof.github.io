@@ -1,13 +1,8 @@
 {
-  "bundle.css": "/0.style.3bd8f87ff7f9905834db.css",
-  "bundle.js": "/bundle.3bd8f87ff7f9905834db.js",
-  "runtime~bundle.js": "/runtime~bundle.3bd8f87ff7f9905834db.js",
-  "vendors~bundle.js": "/vendors~bundle.3bd8f87ff7f9905834db.js",
+  "bundle.css": "/0.style.7b73a8cf708008e3d665.css",
+  "bundle.js": "/bundle.7b73a8cf708008e3d665.js",
+  "runtime~bundle.js": "/runtime~bundle.7b73a8cf708008e3d665.js",
+  "vendors~bundle.js": "/vendors~bundle.7b73a8cf708008e3d665.js",
   "img/App.scss": "/img/_asfalt-light.png",
-  "img/bicom-max.jpg": "/img/bicom-max.jpg",
-  "img/folow-max.jpg": "/img/folow-max.jpg",
-  "img/grep-max.jpg": "/img/grep-max.jpg",
-  "img/motiv-max.jpg": "/img/motiv-max.jpg",
-  "img/pobo-max.jpg": "/img/pobo-max.jpg",
   "index.html": "/index.html"
 }
